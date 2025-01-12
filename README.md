@@ -33,8 +33,7 @@
 - Disaster Recovery
 - Go global in a seconds   
 
-### Flow of the Project [(Cloud Architecture)](https://github.com/Manav-56/Cloud-based-Youtube-Data-Analysis-and-Data-Engineering-Project/blob/main/Diagrams/Diagram.png) :
-
+### Flow of the Project [(Cloud Architecture)](https://github.com/Akshaytank007/Cloud-based-Youtube-Data-Analysis-and-Data-Engineering-Project/blob/main/Diagrams/Diagram.png)
 - Data Ingestion: Data coming from various sources 
 - Data Lake: Design and build a new data lake architecture for organizing data and build data pipeline around it (The data architecture should be scalable , so choose AWS Cloud )
 - ETL Design: Extract, Transform and load data efficiently
